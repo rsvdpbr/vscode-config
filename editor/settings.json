@@ -2,5 +2,6 @@
     "java.configuration.updateBuildConfiguration": "automatic",
     "editor.formatOnSave": true,
     "window.zoomLevel": 0,
-    "files.useExperimentalFileWatcher": true
+    "files.useExperimentalFileWatcher": true,
+    "java.saveActions.organizeImports": true
 }
